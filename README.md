@@ -3,12 +3,12 @@ This repository to list all available dropne part shops across the world
 
 Shops by continent
 
-##Global
+## Global
 
 ### H
 - [hobbyking](https://hobbyking.com/en_us)
 
-##Europe
+## Europe
 
 ### A
 - [amaxshop](http://eu.amaxshop.com)
@@ -68,7 +68,7 @@ Shops by continent
 - [unmannedtechshop](https://www.unmannedtechshop.co.uk)
 
 
-##Asia
+## Asia
 
 ### F
 - [fpvmodel](http://www.fpvmodel.com)
@@ -81,7 +81,7 @@ Shops by continent
 - [surveilzone](http://www.surveilzone.com)
 - [skyhobbies](http://skyhobbies.com.sg)
 
-##Unlisted
+## Unlisted
 
 ### D
 - [drone-fpv-racer](https://www.drone-fpv-racer.com)
